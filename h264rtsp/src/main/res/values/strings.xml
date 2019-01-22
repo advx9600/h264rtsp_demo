@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">H264Rtsp</string>
+    <string name="title_activity_rtsp_h264">RtspH264Activity</string>
+</resources>
