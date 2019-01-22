@@ -6,7 +6,7 @@ clone from https://github.com/fyhertz/libstreaming and https://github.com/bytest
 ## How does it work 
 The working flow as below
 ```
-camera preview data(YV12) -> YUV420sp -> MediaCodec -> H.264 data -> UDP 
+camera preview data(YV12) -> YUV420sp -> MediaCodec -> H.264 data
 ```
 ### VLC
 ```
