@@ -1,5 +1,7 @@
 # android-h264-stream-demo
 
+# 项目是 h264rtsp
+
 ## What it does
 clone from https://github.com/fyhertz/libstreaming and https://github.com/bytestar/android-h264-stream-demo
 
