@@ -1,5 +1,3 @@
-# android-h264-stream-demo
-
 # 项目是 h264rtsp
 
 ## What it does
