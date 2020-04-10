@@ -3,6 +3,7 @@
 # 项目是 h264rtsp
 
 ## What it does
+手机作为视频服务器，可以被其它设备接收<br/>
 clone from https://github.com/fyhertz/libstreaming and https://github.com/bytestar/android-h264-stream-demo
 
 ## How does it work 
